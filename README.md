@@ -19,7 +19,7 @@
   <!-- Email Button -->
   <a href="mailto:sohammaiti770@gmail.com" style="text-decoration: none; display: inline-block; transition: transform 0.2s ease;">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" style="display: block; border-radius: 4px;" />
-  </a>
+   </a>
 
 </div>
 
