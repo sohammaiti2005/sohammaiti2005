@@ -39,7 +39,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 I am Soham Maiti, a B.Tech CSE student specializing in Data Science from West Bengal, passionate about turning data into meaningful insights and solving real-world problems.<br><br>📊 Building strong skills in Data Analytics using Python, SQL, MySQL, Excel, Power BI, Pandas, NumPy, and Matplotlib.<br><br>⚡ Actively strengthening my Data Structures & Algorithms (DSA) and programming fundamentals to improve logical and problem-solving abilities.<br><br>📈 Developing hands-on experience in data cleaning, exploratory data analysis, visualization, dashboards, and business-oriented insights through practical projects.<br><br>.🚀 Continuously learning and preparing to build a career as a Data Analyst, with a long-term goal of growing into advanced Data Science and Analytics roles.
+<p data-importer="text" align="left">🎓 I am Soham Maiti,a B.Tech CSE student specializing in Data Science from West Bengal, passionate about turning data into meaningful insights and solving real-world problems.<br><br>📊 Building strong skills in Data Analytics using Python, SQL, MySQL, Excel, Power BI, Pandas, NumPy, and Matplotlib.<br><br>⚡ Actively strengthening my Data Structures & Algorithms (DSA) and programming fundamentals to improve logical and problem-solving abilities.<br><br>📈 Developing hands-on experience in data cleaning, exploratory data analysis, visualization, dashboards, and business-oriented insights through practical projects.<br><br>.🚀 Continuously learning and preparing to build a career as a Data Analyst, with a long-term goal of growing into advanced Data Science and Analytics roles.
 </p>
 
 ###
